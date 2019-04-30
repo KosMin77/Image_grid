@@ -1,0 +1,10 @@
+/* styles goes here */
+* {
+    box-sizing: border-box;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
